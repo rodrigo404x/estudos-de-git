@@ -31,3 +31,5 @@ git clone <url>                 # Copia um repositório existente
 git diff                        # Mostra o que mudou e ainda não foi pro stage
 git diff --staged               # Mostra o que já está no stage
 git diff <branch1> <branch2>    # Compara duas branches
+
+adicionar mais comandos aos poucos (teste pro push de git)
