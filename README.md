@@ -1,1 +1,4 @@
-ls -lh README.doc
+aprender git é muito daora!!!
+
+planejo usar git no meu projeto 
+
